@@ -1,4 +1,3 @@
-package net.javaguides.swing;
 
 import java.awt.EventQueue;
 import java.awt.Font;
